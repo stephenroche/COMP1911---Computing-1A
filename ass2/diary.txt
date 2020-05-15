@@ -1,0 +1,29 @@
+Author: Stephen Roche
+Date created: 17/05/16 - 25/05/16
+
+Date        Start   Stop        Activity        Comments
+
+17/05/16	00:00   01:10		Coding          Implemented pixel-count, height,
+                                                width, diagonal, tallness, blackness,
+                                                horizontal-balance and vertical
+                                                balance functions.
+
+18/05/16    11:30   13:45       Coding          Implemented holes function.
+
+18/05/16    14:00   14:45       Coding          Implemented holeness function.
+
+21/05/16    12:30   15:30       Coding          Implemented islands function and
+                                                worked on letter identification.
+
+21/05/16    18:00   21:00       Coding          Worked on letter identification.
+
+21/05/16    23:00   02:00       Coding          Worked on letter identification.
+
+22/05/16    12:00   14:40       Coding          Program successfully identified all
+                                                letters.
+
+24/05/16    00:00   00:30       Annotating      
+
+24/05/16    16:00   17:30       Annotating      
+
+25/05/16    23:00   00:30       Annotating      Neatened formatting, finalisd code.
